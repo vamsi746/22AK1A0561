@@ -9,7 +9,6 @@ A backend microservice built with **Node.js + Express** that shortens long URLs,
 - Optional **custom shortcode** (alphanumeric, unique).
 - **Default validity = 30 minutes**, configurable in minutes.
 - Redirect short URLs to original links until expiry.
-- Retrieve **analytics**: total clicks, click details (timestamp, referrer, geo, ip).
 - Mandatory **custom logging middleware** (all requests/errors written to `logs/`).
 - Robust error handling (`400`, `404`, `409`, `410`).
 
