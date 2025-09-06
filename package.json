@@ -1,0 +1,25 @@
+{
+  "name": "22ak1a0561",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vamsi746/22AK1A0561.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vamsi746/22AK1A0561/issues"
+  },
+  "homepage": "https://github.com/vamsi746/22AK1A0561#readme",
+  "dependencies": {
+    "expres": "^0.0.5",
+    "express": "^5.1.0"
+  }
+  
+}
