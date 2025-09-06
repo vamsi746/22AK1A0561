@@ -19,7 +19,6 @@ A backend microservice built with **Node.js + Express** that shortens long URLs,
 - **Node.js + Express**
 - **nanoid** for unique shortcode generation
 - **Custom Logging Middleware** (file-based)
-- **In-memory Map** as storage (sufficient for this assessment)
 
 ---
 
